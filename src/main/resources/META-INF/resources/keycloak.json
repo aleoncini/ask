@@ -1,8 +1,8 @@
 {
-    "realm": "rh",
-    "auth-server-url": "https://access-idp.apps.playground.rhocplab.com/auth/",
+    "realm": "ask",
+    "auth-server-url": "https://lukaku:8443",
     "ssl-required": "external",
-    "resource": "mrt",
-    "public-client": true,
-    "confidential-port": 0
-  }
+    "grant_type": "secret",
+    "resource": "ask",
+    "clientSecret": "xP9zm7HdJsU9HYGukoJs7OuiUYYa2UID"
+}
